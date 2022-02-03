@@ -20,6 +20,7 @@
   "dependencies": {
     "@reduxjs/toolkit": "^1.7.2",
     "@stripe/stripe-js": "^1.22.0",
+    "heroku": "^7.59.2",
     "react-redux": "^7.2.6",
     "redux": "^4.1.2",
     "stripe": "^8.201.0"
